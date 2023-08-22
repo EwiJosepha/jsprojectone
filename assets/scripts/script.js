@@ -14,6 +14,6 @@ const arrowFucntino = () => {
   add.value = result
 }
 
-//add.value(id)
+// add.value(id)
 
 check.addEventListener('click', arrowFucntino)
